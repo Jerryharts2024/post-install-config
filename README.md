@@ -28,7 +28,7 @@ After installation, osTicket requires additional configuration through the admin
 - configure roles
 - create departments
 - configure teams
-- configure system prefences to allow ticket creation
+- configure system preferences to allow ticket creation
 - configure users (customers)
 - configure SLAs
 - configure hot topics
