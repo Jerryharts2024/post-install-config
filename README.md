@@ -21,12 +21,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
+<p>
+After installation, osTicket requires additional configuration through the admin interface or panel before it is entirely functional. Access to the admin panel is restricted to employees with admin rights. The post-installation configuration basically comes down to customizing departments, staff members, agents, hot topics, emails, and system preferences. Please note that the post-installation configuration requires you to log in with the username and password you created during installation. so in this project we are going to...
+</p>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- configure roles
+- create departments
+- configure teams
+- configure system prefences to allow ticket creation
+- configure users (customers)
+- configure SLAs
+- configure hot topics
+
 
 <h2>Configuration Steps</h2>
 
