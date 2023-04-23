@@ -68,7 +68,7 @@ To creat and configure department simply click on --> Admin Panel --> Agents -->
 <img src="https://user-images.githubusercontent.com/131130119/233846758-7c8ba934-e143-489c-b58e-d68ae2c257a2.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
-Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter. To add new department click on --> Admin Panel --> Agents --> Add New Team.
+Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter. To add new department click on --> Admin Panel --> Agents --> Add New Team.. Assign a name to user, such as "evel I Support" and add members to the teaams. This will ensure agents work togethr
 </p>
 <br />
 
