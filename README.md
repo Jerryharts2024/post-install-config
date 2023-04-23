@@ -37,15 +37,30 @@ After installation, osTicket requires additional configuration through the admin
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/131130119/233841551-6e4146d4-c5d0-4b39-8f17-575d86d3b36f.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is the first page you see after logging into the osTicket admin panel
 </p>
+
+<h2>Configure Roles</h2>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/233842402-6fc49201-491e-4e44-b573-24c007f97f9b.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+</p>
+<p>
+Roles enable agents to have access to a particular department. So basically the are permission level granted to agents.
+to creat and configure roles simply click on --> Admin Panel --> Agents --> Roles and --> Add New Role --> assign the role a name. example "Supreme Admin"
+
+
+</p>
+
+
+
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
