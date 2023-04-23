@@ -49,9 +49,8 @@ This is the first page you see after logging into the osTicket admin panel
 </p>
 <p>
 Roles enable agents to have access to a particular department. So basically the are permission level granted to agents.
-to creat and configure roles simply click on --> Admin Panel --> Agents --> Roles and --> Add New Role --> assign the role a name. example "Supreme Admin"
-
-
+to creat and configure roles simply click on --> Admin Panel --> Agents --> Roles and --> Add New Role --> assign the role a name. example "Supreme Admin". 
+ --> Add permssion. Permissions allow agents control within the help desk which are not Department specific access items.
 </p>
 
 
