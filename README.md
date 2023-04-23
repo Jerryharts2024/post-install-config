@@ -68,12 +68,12 @@ To creat and configure department simply click on --> Admin Panel --> Agents -->
 <img src="https://user-images.githubusercontent.com/131130119/233846758-7c8ba934-e143-489c-b58e-d68ae2c257a2.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
-Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter
+Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter. To add new department click on --> Admin Panel --> Agents --> Add New Team.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
