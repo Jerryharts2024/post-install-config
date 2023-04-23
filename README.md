@@ -53,9 +53,14 @@ to creat and configure roles simply click on --> Admin Panel --> Agents --> Role
  --> Add permssion. Permissions allow agents control within the help desk which are not Department specific access items.
 </p>
 
-
-
-
+<h3>Step 2: Configure Departments</h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/233842402-6fc49201-491e-4e44-b573-24c007f97f9b.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+</p>
+<p>
+ Departments allow the osTicket to route ticket in the help desk, each Department comprise of many setting to enable the osTicket function smoothly
+to creat and configure department simply click on --> Admin Panel --> Agents --> Departments and --> Add New Department. Assign a name to your department. You can see clearly that there are many settings associated with the departmeent.
+</p>
 <br />
 
 <p>
