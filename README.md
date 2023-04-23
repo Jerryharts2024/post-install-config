@@ -55,19 +55,20 @@ to creat and configure roles simply click on --> Admin Panel --> Agents --> Role
 
 <h3>Step 2: Configure Departments</h3>
 <p>
-<img src="https://user-images.githubusercontent.com/131130119/233842402-6fc49201-491e-4e44-b573-24c007f97f9b.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+<img src="https://user-images.githubusercontent.com/131130119/233845086-8e58ed8e-ae15-4794-947e-cef8581e6864.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
- Departments allow the osTicket to route ticket in the help desk, each Department comprise of many setting to enable the osTicket function smoothly
-to creat and configure department simply click on --> Admin Panel --> Agents --> Departments and --> Add New Department. Assign a name to your department. You can see clearly that there are many settings associated with the departmeent.
+ Departments allow the osTicket to route ticket in the help desk, each Department comprises of many setting.
+To creat and configure department simply click on --> Admin Panel --> Agents --> Departments and --> Add New Department. Assign a name to the department. You can clearly see that there are many settings associated with the departmeent.
 </p>
 <br />
 
+<h3>Step 3: Configure Teams</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+<img src="https://user-images.githubusercontent.com/131130119/233846758-7c8ba934-e143-489c-b58e-d68ae2c257a2.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter
 </p>
 <br />
 
