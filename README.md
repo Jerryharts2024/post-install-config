@@ -43,7 +43,7 @@ After installation, osTicket requires additional configuration through the admin
 This is the first page you see after logging into the osTicket admin panel
 </p>
 
-<h3>Configure Roles</h3>
+<h3>Step 1: Configure Roles</h3>
 <p>
 <img src="https://user-images.githubusercontent.com/131130119/233842402-6fc49201-491e-4e44-b573-24c007f97f9b.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
