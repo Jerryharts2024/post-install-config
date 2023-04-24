@@ -72,8 +72,9 @@ To creat and configure department simply click on --> Admin Panel --> Agents -->
 </p>
 <p>
 Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter. 
- To create a Team in your Admin Panel, locate the Agents tab, and click on Teams. Then click Add New Team on the right, and fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from your list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page. </p>
- 
+ To create a Team in your Admin Panel, locate the Agents tab, and click on Teams. Then click Add New Team on the right, and fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from your list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page. 
+</p>
+ <p>
  Practically click on --> Admin Panel --> Agents --> Add New Team.. Assign a name to the team, such as "Level I Support" and add members to the teaams. This will ensure agents work together
 </p>
 <br />
@@ -122,9 +123,10 @@ It lays out what I can provide my customer as well as the timeline within which 
 
 <h3>Step 8: Configure Help Topics </h3>
 <p>
-<img src="https://user-images.githubusercontent.com/131130119/234063168-f7dee7e6-bfbe-48fb-b0ac-bddcde4ccc96.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+<img src="https://user-images.githubusercontent.com/131130119/234067758-8b66999f-825b-413d-bbec-37189be12d47.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
-
+Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket.
+ To add help topic go to --> Admin Panel -> Manage -> Help Topics
 </p>
 <br />
