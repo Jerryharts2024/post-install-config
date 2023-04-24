@@ -73,14 +73,24 @@ Team ensures that the osTicket has the capabilites of pulling agents from differ
  
  Practically click on --> Admin Panel --> Agents --> Add New Team.. Assign a name to the team, such as "Level I Support" and add members to the teaams. This will ensure agents work together
 </p>
+
+<h3>Step 4:  Configure Settings to - Allow anyone to create tickets</h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/234027782-fe3a8061-b097-4c86-a216-97e9e02db993.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+</p>
+<p>
+This section allows you to create standards and rules for each user when ticket is created on the Help Desk. this helps to prevent random tickets and also it increases user accessibility level in the help desk. Here you can decide if registration is required for  end users before creating a ticket or otherwise. <br />
+To configure this section, go to --> Admin Panel --> Settings --> User Settings  check --> Registration Required: Require registration and login to create tickets then --> save changes
+</p>
 <br />
 
 
-
+<h3>Step 4:  Configure Settings to - Allow anyone to create tickets</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+<img src="https://user-images.githubusercontent.com/131130119/234027782-fe3a8061-b097-4c86-a216-97e9e02db993.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This section allows you to create standards and rules for each user when ticket is created on the Help Desk. this helps to prevent random tickets and also it increases user accessibility level in the help desk. Here you can decide if registration is required for  end users before creating a ticket or otherwise. <br />
+To configure this section, go to --> Admin Panel --> Settings --> User Settings  check --> Registration Required: Require registration and login to create tickets then --> save changes
 </p>
 <br />
