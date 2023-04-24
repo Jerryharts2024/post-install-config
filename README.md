@@ -108,4 +108,17 @@ To create a user, go to --> Agemt Panel --> User --> Add user
  </p>
 <br />
  
+  <h3>Step 7: Configure SLA </h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/234063168-f7dee7e6-bfbe-48fb-b0ac-bddcde4ccc96.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+</p>
+<p>
+SLAs otherwise know as Service Level Agreements provide the length of time in which the help desk Administrator expects tickets to be closed. This basically refers to the standard of service a customer can expect when working for my company.
+It lays out what I can provide my customer as well as the timeline within which I will be delivering their services. 
+ <br />
+ To create SLAs --> Admin Panel -> Manage -> SLA --> Add New SLA Plan
  
+
+ 
+ </p>
+<br />
