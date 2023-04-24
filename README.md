@@ -129,4 +129,6 @@ It lays out what I can provide my customer as well as the timeline within which 
 Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket.
  To add help topic go to --> Admin Panel -> Manage -> Help Topics
 </p>
+Thank You!
+
 <br />
