@@ -84,13 +84,14 @@ To configure this section, go to --> Admin Panel --> Settings --> User Settings 
 </p>
 <br />
 
-
-<h3>Step 4:  Configure Settings to - Allow anyone to create tickets</h3>
+<h3>Step 4: Configure Agents (workers)</h3>
 <p>
-<img src="https://user-images.githubusercontent.com/131130119/234027782-fe3a8061-b097-4c86-a216-97e9e02db993.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
+<img src="https://user-images.githubusercontent.com/131130119/234033821-8ee99469-c231-4676-9cd9-10e240e2ff76.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
-This section allows you to create standards and rules for each user when ticket is created on the Help Desk. this helps to prevent random tickets and also it increases user accessibility level in the help desk. Here you can decide if registration is required for  end users before creating a ticket or otherwise. <br />
-To configure this section, go to --> Admin Panel --> Settings --> User Settings  check --> Registration Required: Require registration and login to create tickets then --> save changes
-</p>
+Agents are basically someone who would respond and resolve tickets. So ensure that the help desk functions appropriately we have to give access to agents by assigning an agent to a primary department and given a Primary Role for the Tickets/Tasks routed to that department. The role of an agent can also be extended to other department by given them access to that department. 
+ To create an Agent, Admin Panel --> Agents --> Add New. 
+ 
+ 
+ 
 <br />
