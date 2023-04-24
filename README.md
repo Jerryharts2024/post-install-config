@@ -33,6 +33,7 @@ After installation, osTicket requires additional configuration through the admin
 - configure SLAs
 - configure hot topics
 
+<br />
 
 <h2>Configuration Steps</h2>
 
@@ -52,6 +53,7 @@ Roles enable agents to have access to a particular department. So basically the 
 to creat and configure roles simply click on --> Admin Panel --> Agents --> Roles and --> Add New Role --> assign the role a name. example "Supreme Admin". 
  --> Add permssion. Permissions allow agents control within the help desk which are not Department specific access items.
 </p>
+<br />
 
 <h3>Step 2: Configure Departments</h3>
 <p>
@@ -62,6 +64,7 @@ to creat and configure roles simply click on --> Admin Panel --> Agents --> Role
  Departments allow the osTicket to route ticket in the help desk, each Department comprises of many setting.
 To creat and configure department simply click on --> Admin Panel --> Agents --> Departments and --> Add New Department. Assign a name to the department. You can clearly see that there are many settings associated with the departmeent.
 </p>
+<br />
 
 <h3>Step 3: Configure Teams</h3>
 <p>
@@ -69,10 +72,11 @@ To creat and configure department simply click on --> Admin Panel --> Agents -->
 </p>
 <p>
 Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter. 
- To create a Team in your Admin Panel, locate the Agents tab, and click on Teams. Then click Add New Team on the right, and fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from your list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page.
+ To create a Team in your Admin Panel, locate the Agents tab, and click on Teams. Then click Add New Team on the right, and fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from your list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page. </p>
  
  Practically click on --> Admin Panel --> Agents --> Add New Team.. Assign a name to the team, such as "Level I Support" and add members to the teaams. This will ensure agents work together
 </p>
+<br />
 
 <h3>Step 4:  Configure Settings to - Allow anyone to create tickets</h3>
 <p>
