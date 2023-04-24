@@ -57,20 +57,25 @@ to creat and configure roles simply click on --> Admin Panel --> Agents --> Role
 <p>
 <img src="https://user-images.githubusercontent.com/131130119/233845086-8e58ed8e-ae15-4794-947e-cef8581e6864.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
+
 <p>
  Departments allow the osTicket to route ticket in the help desk, each Department comprises of many setting.
 To creat and configure department simply click on --> Admin Panel --> Agents --> Departments and --> Add New Department. Assign a name to the department. You can clearly see that there are many settings associated with the departmeent.
 </p>
-<br />
 
 <h3>Step 3: Configure Teams</h3>
 <p>
 <img src="https://user-images.githubusercontent.com/131130119/233846758-7c8ba934-e143-489c-b58e-d68ae2c257a2.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
 </p>
 <p>
-Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter. To add new department click on --> Admin Panel --> Agents --> Add New Team.. Assign a name to user, such as "evel I Support" and add members to the teaams. This will ensure agents work togethr
+Team ensures that the osTicket has the capabilites of pulling agents from different departments and organize them in the way they can handle a specific issue or user via a Help Topic or Ticket Filter. 
+ To create a Team in your Admin Panel, locate the Agents tab, and click on Teams. Then click Add New Team on the right, and fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from your list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page.
+ 
+ Practically click on --> Admin Panel --> Agents --> Add New Team.. Assign a name to the team, such as "Level I Support" and add members to the teaams. This will ensure agents work together
 </p>
 <br />
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket - Post-Install Configuration"/>
